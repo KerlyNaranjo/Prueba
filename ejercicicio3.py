@@ -11,6 +11,8 @@ p1=open("File1.txt","w")
 p1.write(pr1)
 p1=open("File1.txt","r")
 a=p1.read()
+a.reverse()
+print (str(a))
 print("Archivo1: " + str(len(a.split(" "))))
 p1.close()
 
@@ -28,13 +30,5 @@ c=p3.read()
 print("Archivo3: " + str(len(c.split(" "))))
 p3.close()
 
-inv1=p1.reverse()
-print(str(inv1))
-
-inv2=p2.reverse()
-print(str(inv2))
-
-inv3=p3.reverse()
-print(str(inv3))
 
 
