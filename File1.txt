@@ -1,0 +1,849 @@
+Petróleo y poder:
+el colapso de un lugar singular
+Yasuní
+Iván Narváez
+Petróleo y poder:
+el colapso de un lugar singular
+Yasuní
+© De la presente edición:
+FLACSO, Sede Ecuador
+La Pradera E7-174 y Diego de Almagro
+Quito - Ecuador
+Telf.: (593-2) 323 8888
+Fax: (593-2) 3237 960
+www.flacso.org.ec
+GTZ
+Amazonas 39-234 y Gaspar de Villaroel
+Quito - Ecuador
+Telef.: (593-2) 243 7399
+gtz-ecuador@gtz.de
+ISBN: 978-9978-67-200-6
+Cuidado de la edición: Paulina Torres
+Diseño de portada e interiores: Antonio Mena
+Imprenta: Crearimagen
+Quito, Ecuador, 2009
+1ª. edición: febrero, 2009
+Índice
+Presentación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Reconocimientos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Prólogo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Introducción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Aproximaciones teóricas y metodológicas . . . . . . . . . . . . . . . . . . . . . . 28
+Justificación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+Capítulo I
+Poder, petróleo y políticas ambientales públicas
+Amazonía continental y el proceso extractivo . . . . . . . . . . . . . . . . . . . 73
+Petróleo y crisis ambiental en la Región Amazónica
+Ecuatoriana (RAE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+El ejercicio del poder extractivo-estatal en la RAE . . . . . . . . . . . . . . . . 100
+Interpelación del poder a través de demandas
+políticas en la RAE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+ITT: extracción o represamiento del petróleo in situ . . . . . . . . . . . . . . . 136
+Marco jurídico-institucional ambiental (referencias teóricas) . . . . . . . 159
+El sistema político . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+Las políticas públicas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+Políticas ambientales públicas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+Organismos multilaterales y formulación de
+políticas públicas nacionales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+La conversión de las políticas nacionales en políticas específicas . . . . . . 186
+Marco jurídico-político ambiental . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+Constitución Política de la República (políticas ambientales) . . . . . . . . 192
+Circunscripciones Territoriales Indígenas (CTI) . . . . . . . . . . . . . . . . . . 195
+Capítulo II
+Gestión de áreas protegidas
+Antecedentes históricos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199
+Categorías específicas de áreas protegidas según
+el objetivo principal de manejo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 201
+Nuevos roles de la áreas protegidas en el siglo XXI . . . . . . . . . . . . . . . 204
+Áreas protegidas privadas (APP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 207
+Políticas de conservación de áreas protegidas . . . . . . . . . . . . . . . . . . . . . 209
+Políticas ambientales ecuatorianas y procesos
+de consulta previa informada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217
+Manejo y gestión de áreas protegidas . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+Política de participación social en la conservación (áreas protegidas) . . . 222
+Planificación participativa en gestión de áreas protegidas . . . . . . . . . . . 224
+Co-manejo de áreas protegidas (Co-gestión) . . . . . . . . . . . . . . . . . . . . . 225
+Comités de gestión . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228
+Gestión compartida o participativa . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228
+Participación pública . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+Gestión comunitaria de áreas protegidas . . . . . . . . . . . . . . . . . . . . . . . . 232
+Pueblos indígenas y áreas protegidas . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+Conservación y pueblos indígenas (no contactados) . . . . . . . . . . . . . . . 238
+Gobernanza de áreas protegidas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
+Capítulo III
+Marco jurídico institucional y gestión ambiental: Sistema de Gestión
+Ambiental (SGA)- Análisis comparativo estructural en el Yasuní
+Marco jurídico-institucional:
+problemas de competencia y aplicación . . . . . . . . . . . . . . . . . . . . . . . . 243
+El Estado y la gestión ambiental . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+Ámbitos de la gestión pública en general . . . . . . . . . . . . . . . . . . . . . . . 244
+El marco institucional . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+La gestión ambiental . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249
+Plan de Manejo Ambiental (PMA) . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+Plan de Relaciones Comunitarias (PRC) . . . . . . . . . . . . . . . . . . . . . . . 254
+Sistema de Gestión Ambiental de las empresas
+petroleras que operan en el PNY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+Respuesta fallida de las empresas como responsables de la gestión
+ambiental y como sujetos auditables por parte del Estado . . . . . . . . . . 261
+Capítulo IV
+Instrumentos para la gobernanza ambiental (énfasis en el Yasuní)
+Políticas de participación en la gestión de áreas protegidas . . . . . . . . . 269
+Tipos de gobernanza de áreas protegidas . . . . . . . . . . . . . . . . . . . . . . . 274
+La institucionalidad pública ambiental, competencias
+(tendencias-rupturas) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279
+Institucionalidad y gobernabilidad . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285
+Institucionalidad ambiental
+(antecedentes históricos) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287
+Caracterización de la institucionalidad
+ambiental actual . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 289
+Sustento de la institucionalidad en la legislación nacional . . . . . . . . . . 291
+Institucionalidad ambiental en el PNY . . . . . . . . . . . . . . . . . . . . . . . . 293
+Competencias ambientales institucionales . . . . . . . . . . . . . . . . . . . . . . 303
+Límites del modelo de gestión ambiental en el PNY . . . . . . . . . . . . . . 306
+Modelos estandarizados de gestión ambiental . . . . . . . . . . . . . . . . . . . . 306
+Transversalidad de los temas ambientales en el PNY . . . . . . . . . . . . . . . 311
+Colisión de coaliciones en el Yasuní y territorio
+huaorani (políticas de exclusión) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316
+Percepción de los actores estratégicos respecto a la crisis
+de gestión ambiental en el Yasuní . . . . . . . . . . . . . . . . . . . . . . . . . . . . 323
+Percepción de los pueblos indígenas,
+sus derechos y áreas protegidas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
+Percepción de las ONG ambientalistas . . . . . . . . . . . . . . . . . . . . . . . . . 331
+Sector académico (universidades y centros de investigación) . . . . . . . . . 336
+Percepción de los organismos seccionales de Orellana . . . . . . . . . . . . . 339
+Políticas participativas (instrumentos para
+la gobernanza ambiental) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 343
+Reparación civil por daños ambientales . . . . . . . . . . . . . . . . . . . . . . . . 350
+Reparación patrimonial individual por
+daños ambientales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 356
+Reparación colectiva difusa - la compensación social . . . . . . . . . . . . . . 359
+Nuevos sujetos del derecho de acción
+frente a los daños ambientales colectivos . . . . . . . . . . . . . . . . . . . . . . . . 362
+Capítulo V
+El fraccionamiento competencial ambiental
+La centralización del Estado . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367
+La actual persistencia del centralismo . . . . . . . . . . . . . . . . . . . . . . . . . 368
+Puntos críticos de la centralización . . . . . . . . . . . . . . . . . . . . . . . . . . . 370
+Polarización ideológica en la descentralización . . . . . . . . . . . . . . . . . . 371
+Objetivos de la descentralización hasta el 2006 y
+con modificaciones a partir del 2007 . . . . . . . . . . . . . . . . . . . . . . . . . . 375
+Descentralización funcional . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 376
+Transferencia de competencias (descentralización administrativa) . . . . 377
+Descentralización fiscal
+(redistribución - transferencia de recursos) . . . . . . . . . . . . . . . . . . . . . 379
+Descentralización democrática (integral) . . . . . . . . . . . . . . . . . . . . . . . 381
+Descentralización desde la interculturalidad . . . . . . . . . . . . . . . . . . . . 385
+Límites para la descentralización . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 388
+La descentralización de la gestión ambiental municipal regional . . . . . . 390
+La descentralización en el Ecuador . . . . . . . . . . . . . . . . . . . . . . . . . . . 393
+Política nacional de descentralización de la gestión ambiental . . . . . . 402
+El proceso de descentralización ambiental (fraccionamiento
+competencial y transferencia de poder) ¿Instrumento u obstáculo
+para la gobernanza ambiental? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+Devolución de competencias o transferencia
+de competencias ambientales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 408
+Análisis del convenio marco en base al A. M. 055, derogado
+por el 106 (proceso de devolución de competencias) . . . . . . . . . . . . . . 408
+Marco institucional en la descentralización ambiental . . . . . . . . . . . . . 418
+Ministerio del Ambiente del Ecuador (MAE) . . . . . . . . . . . . . . . . . . . 418
+El CONCOPE frente a la descentralización ambiental- Convenio Marco
+de Transferencia de Competencias del Ministerio del Ambiente . . . . . 425
+Ex Consejo Nacional de Modernización del Estado (CONAM) . . . . . 430
+Secretaría Nacional de Planificación
+y Desarrollo (SENPLADES) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+8
+La Asociación de Municipalidades
+del Ecuador (AME) y su funcionamiento . . . . . . . . . . . . . . . . . . . . . . 438
+El futuro de la gestión: cuatro escenarios . . . . . . . . . . . . . . . . . . . . . . . 445
+Desafíos y oportunidades . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 449
+Bibliografía . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 459
+Anexos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
+Acrónimos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 581
+9
+La Región amazónica ecuatoriana ha sido objeto de estudios socioeconó-
+micos, de investigaciones científicas sobre aspectos físicos y bióticos que
+han permitido conocer este complejo ecosistema selvático, ecológicamente
+sensible y culturalmente vulnerable. No obstante, la problemática que
+caracteriza a la región es de gran preocupación pública, privada, interna e
+internacional por todos los efectos que causa el proceso extractivo.
+El libro de Iván Narváez, Petróleo y poder: el colapso de un lugar singular
+Yasuní, no es un texto más que aborda el tema, sino un esfuerzo de
+análisis ponderado que trata de profundizar y evidenciar las aristas de la
+problemática amazónica desde una perspectiva innovada, que al evidenciar
+la trágica realidad del área protegida, propone salidas nada extraordinarias,
+pero que implican un comprometimiento sincero para coadyuvar
+al esfuerzo que hacen los actores locales y pueblos indígenas para evitar el
+colapso del lugar singular, de su casa verde, de nuestro espacio común.
+El énfasis de la investigación está relacionado con temas inherentes al
+ordenamiento jurídico del país respecto de las áreas protegidas y descentralización,
+en cuanto variables establecidas a nivel constitucional. Esto ha
+motivado a los diversos actores a plantear la re-significación de los horizontes
+normativos ambientales y de gestión. En esta perspectiva, el análisis
+no aborda en toda su amplitud los temas involucrados en las actividades
+productivas y extractivas del país, sino los de la crisis de gobernanza
+ambiental y manejo de los recursos naturales no renovables en la
+Amazonía norte y en el Yasuní.
+11
+Presentación
+La Facultad Latinoamericana de Ciencias Sociales (FLACSO), con la
+publicación de este libro, ratifica su respaldo a la investigación socioambiental
+en Ecuador y corrobora su predisposición a continuar en el
+empeño; no sólo desde el trágico signo ambiental amazónico, sino y sobre
+todo, desde el sentido esperanzador de sus pueblos, de la gente que está
+por llegar.
+Adrián Bonilla
+Director
+FLACSO - Ecuador
+Presentación
+A Juan José, porque llegó a la vida.
+A líderes indígenas de la Amazonía y a Vicente Moy Enomenga en particular,
+quienes siempre estuvieron dispuestos a dialogar respecto de sus
+principales preocupaciones. Al sociólogo Pablo Ortiz y al antropólogo
+Juan Carlos Franco, por compartirme sus percepciones sobre la problemática
+que aborda el texto. Al Dr. Guillaume Fontaine, Director de Investigaciones
+de FLACSO, por sus oportunas sugerencias teórico-metodológicas.
+A los estudiantes de Sociología Ambiental en la FIGEMPA
+siempre interesados en la temática y a quienes, en gran parte, se deben las
+reflexiones asumidas.
+Aspiro que este esfuerzo común coadyuve la institucionalización de una
+buena gobernanza ambiental y consolidación de los derechos de los pueblos
+amazónicos. Solo el ejercicio pleno de sus derechos es garantía para
+su permanencia física y cultural y salvará a la sociedad ecuatoriana de la
+intrascendencia de una identidad vacía.
+Reconocimientos
+15
+El Parque Nacional Yasuní cumple 30 años. Durante tres décadas, ha
+resistido las invasiones y el saqueo, convirtiéndose en el teatro de una lucha
+dramática entre el bien y el mal. Una lucha en la que, por lo general,
+la demagogia y la retórica han sustituido la política de Estado y que muestra
+la impotencia de la sociedad civil; pues esta no consigue frenar la
+explotación petrolera, ni el tráfico de madera y tampoco la masacre de
+animales de monte.
+Y sin embargo vive. A la fecha, este “lugar singular”, como lo llama Iván
+Narváez, que cubre unas 982 000 hectáreas de la Amazonía ecuatoriana,
+constituye un hito para la gobernanza ambiental global. Por una parte, obliga
+al Estado ecuatoriano a garantizar el respecto de la biodiversidad, en
+medio de una región que se licitó a la industria petrolera. Por otra, se inserta
+en la estrategia de conservación llevada a cabo por la UNESCO, a través
+de las reservas de la biosfera. En consecuencia, constituye un reto para hacer
+de buenas intenciones y votos piadosos una realidad. No una utopía.
+Aquellas personas bien intencionadas que buscan convencer a la
+comunidad internacional pagar para conservar la naturaleza se han quedado
+sin piso. La realidad es que nadie está dispuesto a pagar por los errores
+de los demás, sin que sus ganancias superen el costo que ello significa.
+Pese a la crisis financiera, pese a la baja del crecimiento económico mundial,
+el mercado gana. Pierden los caballeros del apocalipsis, que nos
+anuncian cada tanto tiempo el fin del capitalismo y nos ofrecen una salida
+revolucionaria hacia un mundo liberado de las fuerzas del mal.
+Prólogo
+Guillaume Fontaine
+17
+De todos los errores que hemos acumulado, quizás el peor ha sido
+creer que la ética ambiental contrarresta el espíritu del capitalismo. En el
+catálogo de los proyectos de conservación, el canje de deuda por bonos de
+la naturaleza no convence a los ricos. Tampoco convence el marketing
+verde de los bonos de carbono, en un mundo que enfrenta una crisis energética
+global.
+Sin embargo, quienes poseen los medios necesarios para enfrentar la
+crisis ambiental global son tanto los países industrializados como las empresas
+multinacionales, los inversionistas y los especuladores. No obstante,
+la recesión que se produjo en 2008 nos advierte que la caída brusca del
+precio del petróleo, tendrá como consecuencia, a corto plazo, una creciente
+presión sobre los recursos naturales en los países pobres.
+Con todo, pierde el Parque Nacional Yasuní. Ni las ingentes cantidades
+de dinero gastado por la cooperación al desarrollo, ni la inflación de normas
+jurídicas ambientales, ni las costosas campañas internacionales de cabildeo
+han podido revertir esta situación: sigue siendo el pariente pobre del sistema
+nacional de áreas protegidas. Ahora bien, un parque que no genera
+ganancias es un parque condenado a depender de la buena voluntad de los
+gobiernos de turno y de la coyuntura económica del momento. Suben los
+precios del petróleo y los yacimientos se vuelven el blanco de la codicia de
+los políticos, tanto de izquierda como de derecha. Caen los ingresos del
+Estado y el primer rubro a ser recortado es aquel de la política ambiental.
+Por el décimo aniversario del Parque Nacional Yasuní, se elaboró un
+plan de gestión ambiental que fue desechado con desdén por los ecologistas
+ecuatorianos. Ellos lo consideraron derrotista, pues este plan asumía
+como un hecho consumado la presencia del sector petrolero en el área
+protegida y proponía una nueva zonificación ecológica. Incluso se contempló
+la posibilidad de ampliar la contribución del sector petrolero al
+financiamiento de la conservación del parque. Un pacto faustiano, según
+los opositores a esta iniciativa.
+Por su vigésimo aniversario, se le regaló al parque un decreto ejecutivo
+que declaró “intangible” la parte sur, conocida como área de tránsito
+de los clanes Tagaeri y Taromenane. Los diez años que pasaron luego confirmaron
+lo que hemos repetido a saciedad: un decreto no “hace” una
+política pública. Entre matanzas de indígenas, tráfico de madera y negoGuillaume
+Fontaine
+18
+ciaciones con las empresas petroleras que operan en esta parte del parque,
+la zona oficialmente “intangible” no ha podido ser protegida por el Estado
+ecuatoriano.
+Al fin y al cabo, el Parque Nacional Yasuní ha quedado en manos de
+la industria petrolera. Así como en otras épocas la administración de la
+región amazónica estuvo en manos de las misiones religiosas, hoy lo está
+en las del sector industrial o extractivo. Al dogma civilizatorio ha sucedido
+el dogma desarrollista, sin que nadie –ni la clase política, ni la sociedad
+civil– midiera las consecuencias de semejante abdicación.
+¿Quién podría culpar a las empresas petroleras? ¿Aquellas y aquellos
+que protestan a gritos contra el desarrollo y declaman el credo marxista
+que confunde la evolución de la sociedad con una crisis sistémica? ¿Aquellas
+y aquellos que pretenden defender un bien común y no dudan en
+cederlo en usufructo al mejor postor, sea este otra transnacional petrolera?
+¿Aquellas y aquellos que reclaman trabajo, educación y salud a la
+misma industria, puesta en jaque por los paros y las ocupaciones de sitios?
+La verdad es que, más allá del Yasuní, lo que está en entredicho es la
+política ambiental, así como en otros lugares, la política social ha sido privatizada.
+Por ello, el Parque Nacional Yasuní encarna la esquizofrenia de un
+Estado que pretende conservar la biodiversidad y extraer petróleo en el
+mismo lugar. Por ello, el Parque Nacional Yasuní está condenado a desaparecer
+si la política del Estado no cambia. Ni las protestas populares, ni las
+declaraciones de buenas intenciones de parte de la industria, ni las sutilezas
+intelectuales de la ecología política podrán sustituir una política ambiental
+fuerte, llevada a cabo por un Estado voluntario, responsable y solvente.
+Esto tiene un costo económico y social, pues los árboles no se cuidan
+solos y la conservación de espacios naturales afecta los hábitos de las
+poblaciones locales y, más allá, de un país. Pero más que todo, tiene un
+costo político, pues los arbitrajes presupuestarios no suelen contentar a
+todos a la vez. Decidir una moratoria a la explotación de un yacimiento
+gigantesco como aquel de los campos Ishpingo, Tiputini y Tambococha
+no implica los mismos costos económicos y sociales que explotar estos
+campos. Financiar esta moratoria a costa de una reducción del gasto social
+en el presupuesto del Estado, no implica los mismos costos políticos que
+solicitar la contribución de la comunidad internacional.
+Prólogo
+19
+Por último, tiene un costo ético, en cuanto de responsabilidad se trata.
+Si bien es cierto, es responsabilidad del Estado garantizar la conservación
+del medio ambiente y la protección de la población contra actividades
+dañinas y conflictos violentos, esta obligación seguirá siendo abstracta,
+mientras no se considere las implicaciones financieras que tiene para el
+país. Esto lleva a relativizar la oposición maniquea que suele erigirse en
+argumento político para las y los idealistas; entre, por un lado, un país
+libre de petróleo que muestre al mundo el ejemplo y, por otro, un país
+bañado en crudo condenado por la maldición de los recursos.
+La salida de la esquizofrenia se dará siempre y cuando el gobierno de
+turno asuma la responsabilidad de involucrar a todos los actores presentes
+en el ámbito del Parque Nacional Yasuní. Se trata entonces de obligar
+a pagar a las empresas por la conservación del área en el que intervienen.
+Se trata de monitorear sus actividades para garantizar un manejo ambiental
+óptimo a lo largo de sus operaciones. Se trata de obligarlas a rendir
+cuentas. Se trata también de fortalecer a la sociedad civil y a la ciudadanía
+en general, para que se respete sus derechos, más allá de los anatemas
+que no hacen sino manipular a la opinión pública.
+El libro de Iván Narváez constituye, sin lugar a duda, un paso importante
+hacia esta salida. Completa estudios anteriores que el autor emprendió
+a lo largo de su carrera de investigador, en particular con el
+Observatorio Socio Ambiental de la FLACSO-Sede Ecuador. Detalla los
+factores que llevaron a la crisis que atraviesa hoy el Parque Nacional
+Yasuní y continúa el trabajo que había iniciado en su obra anterior
+Derecho ambiental y temas de sociología ambiental.
+Más allá de la casuística, el estudio de esta crisis permite entender
+cómo el modelo de gobernanza ambiental ecuatoriano ha fracasado hasta
+la fecha. No obstante, más allá del ejercicio descriptivo que suele caracterizar
+a muchos ensayos de sociología ambiental, el libro ofrece también un
+marco analítico consistente, que ayudará a reformar este modelo; gracias
+a una mejor articulación entre el marco jurídico e institucional, las lógicas
+de acción racional de los actores no institucionales y los instrumentos
+de políticas públicas como la gestión de áreas protegidas y la descentralización
+de competencias ambientales.
+Quito, 28 de enero de 2009
+Guillaume Fontaine
+20
+21
+En vez de “Petróleo y poder: colapso de un lugar singular Yasuní”, el título
+del libro pudo ser “Un lugar singular”, sencillo y perfecto para describir
+lo portentoso de la selva y de los árboles, que aún en su formidable robustez
+por igual compiten con sarmentosas lianas los nutrientes del dosel,
+mientras sus hojas en lo alto, solitariamente beben la luz que desciende
+desde el sol.
+Perfecto para evocar que los ríos parecen de cristal: unas veces ocres,
+otras obscuros, pero siempre como una dulce residencia de espíritus y dioses
+zoomorfos y antropomorfos que juegan con las mujeres y hombres de
+la selva, purificándolos en medio de contorciones y danzas que los liberan
+de las necesidades impuestas por los extraños al mundo del yagé. Pudo ser
+un sintagma poético para entrar a la naturaleza y su sorprendente desnudez,
+sin giros lingüísticos entronizados por la racionalidad instrumental o
+tecnicismos disciplinares que designan los objetos, los fenómenos, los
+procesos o las percepciones; despojándolos de simbolismos, que antes que
+aderezos irrelevantes de las culturas selváticas, constituyen la base sobre la
+que se erige su identidad ancestral, iluminadora.
+“Un lugar singular” habría sido una respuesta a lo que los pueblos huaorani,
+(tagaeri, taromenani) se plantean respecto a la selva y en relación a
+otros mundos subsumidos en el vértigo de la modernidad. Mundos
+donde los seres son vividos y por estar sujetos a las presiones del pragmatismo
+e inmediatez economicista, perecen en la vorágine de la crisis global:
+contaminación, desertización, pérdida de la diversidad biológica,
+21
+Introducción 
+adelgazamiento de la capa de ozono, efecto invernadero, cambio climático,
+pobreza, muerte entrópica).
+Respuesta a preguntas como: ¿Por qué los pueblos selváticos perciben
+que la sociedad en general le asigna mayor importancia a la opinión de
+un biólogo sobre la biota amazónica, antes que a la de un sabio indígena
+sobre la materia? ¿Por qué ahora los niños del bosque tropical son víctimas
+de las hepatitis, si antes sólo la ausencia de un pájaro era la dolencia
+que más los afectaba? ¿Por qué el petróleo extraído en el Cononaco
+no retorna al pueblo de “ahí” en forma de salud o de alfabeto? ¿Por qué
+hasta las mariposas han de pagar impuestos para acceder a los saladeros
+de los ríos?
+Otras preguntas y otras respuestas se podrían formular si el título del
+libro hubiera sido únicamente “Un lugar singular”, pero no, es “Petróleo
+y poder: colapso de un lugar singular Yasuni”. Como se puede apreciar lo
+integra el término “colapso”, que en el lenguaje formal del pequeño
+Larousse significa “disminución rápida de las fuerzas-paralización de la
+actividad”. El colapso connota el abrupto aniquilamiento de la hilea, asumida
+como un todo integral, donde nada está demás ni está de menos respondiendo
+a la sabiduría de la naturaleza para delegar a cada elemento
+una función, complementaria a la de otro, a fin de que no se rompa la
+cadena de equilibrio forjada a través de tiempos inmemoriales: desde antes
+de que exista el hierro, el bronce, el oro, el petróleo u otros “elementos”
+ahora elevados a la categoría de “recursos-mercancías”, en consecuencia
+mercantilizables y expuestos a la voracidad de propios y extranjeros.
+El colapso tiene otras implicaciones, por ejemplo: obstrucción de las
+actividades que realizan las hormigas acumulando hojas que después procesan
+obteniendo hongos para sus larvas; o las que practican los cofanes
+confeccionando ashangas o coronas de plumas que ofertan en Lago Agrio,
+a precios insignificantes.
+Con el advenimiento de la modernidad (proceso de integración) se
+incrementó y sofisticó la agresión a la otredad indígena, a su hogar verde
+y húmedo. El escenario de violencia establecido por razones culturales de
+estos pueblos, pasó a ser el de los intereses económico-energéticos transnacionales
+y que ha sometido a la selva a una tarea ímproba: donde
+extracción, capital y Estado se enfrentan enarbolando el desarrollo como
+Petróleo y poder: el colapso de un lugar singular, Yasuní
+22
+arma publicitaria, en un desenfreno sin precedentes, en un desorden que
+hace estallar la apacible calma de las crisálidas, o la de los guerreros que
+solían caminar sin dejar huellas y que para bruñir su espíritu, respetuosamente
+bebían la sangre del guerrero jefe contrincante caído en la contienda.
+Colapso y desenfreno en una selva sin más ley que la del mercado de
+recursos naturales renovables y no renovables, mercado incapaz de atenuar
+la atmósfera desorbitada que se genera debido a una extracción irresponsable
+del combustible fósil, de flora y fauna, incentivando la ansiedad
+de científicos, políticos y aventureros por explicar el imbricado mundo de
+la selva.
+La investigación pretende elucidar que los 35 años de explotación
+petrolera en la Amazonía ecuatoriana expresan el paroxismo de esa guerra
+económico-energética que no da tregua, y al margen de haber generado
+para el Estado aproximadamente 90 mil millones de dólares, ha condenado
+a amplios sectores sociales a migrar, a otros pernoctar en las veredas de
+los edificios que ellos mismos construyen en las grandes ciudades, y a los
+pueblos indígenas de la selva a vivir como extraños en su propia casa.
+En el texto se analiza como en el frenesí de un tiempo de bonanza
+petrolera, el Estado ha impulsado cambios y transformaciones que apuestan
+a la conservación, al desarrollo, pero no ha sido capaz de generar un
+sentido histórico para la sociedad ecuatoriana, sino sólo una conciencia de
+su agotamiento y que la precipita en busca de cualquier espectáculo que
+le haga olvidar su desesperanza; así va a él, como las mariposas van a la
+luz, como en una especie de borrachera y con un sentimiento oscuro, pretendiendo
+salir de la noche a la mañana del fango al que la llevaron las elites
+que la gobernaron.
+El colapso de un lugar singular es una constatación de la crisis de la
+Amazonía, del Yasuní, que está allí, como “los de ahí”: para sentirlo basta
+olfatear la acidez del hidrocarburo, con su textura dúctil flotando libre
+como una serpentina mortal en los flujos de los ríos, en los abrevaderos
+para los animales y en los pozos de agua de la que se sirven las personas.
+El colapso no es una alarma, su materialidad también se expresa en la
+extinción de bosques, en la propagación de enfermedades y pérdida de
+biodiversidad. Se configura con la ausencia del Estado en la región amazónica
+y con la presencia omnímoda de empresas transnacionales –plani-
+23
+Introducción
+ficando el desarrollo de las culturas indígenas– sin más norte que el de sus
+exclusivos intereses crematísticos.
+El colapso de la Amazonía es un grito desesperado y desgarrador que
+se expresa en la falta de un adecuado control público de la gestión
+ambiental empresarial, en la impunidad en la que queda el tráfico ilegal
+de madera y de fauna en Pompeya, a las riveras del Napo; se concreta con
+la ampliación de la frontera extractiva sin considerar los procesos autonó-
+micos y territorialidad integral indígena y mucho menos el Sistema
+Nacional de Áreas Protegidas; es tan real como la incapacidad de los
+gobiernos locales para profundizar la transferencia de competencias
+ambientales, y como la resistencia del gobierno central para desprenderse
+de poder, o implementar políticas ambientales públicas eficaces.
+La crisis está haciendo metástasis y se evidencia en el dilema gubernamental
+de extraer o no hidrocarburos en un área del Yasuní, debido a que,
+por una parte se constata que durante 35 años la explotación petrolera ha
+generado impactos negativos a la naturaleza y a la sociedad, como el
+siniestro eco-etnocida causado por Texaco. Por otra se verifica la contradictoria
+política pública de conservación en la RAE, dicha contradicción
+es más evidente en el Yasuní por el establecimiento y superposición de
+categorías técnico-jurídicas sobre este mismo espacio (parque nacional,
+reserva de biosfera, territorios indígenas, zona intangible, bloques petroleros),
+distorsionando el manejo y objetivos específicos de cada una de
+ellas y provocando la colisión de coaliciones entre conservacionistas, capital
+transnacional, pueblos indígenas y el propio Estado.
+Además, la compleja crisis de la región y del Yasuní se inscribe dentro
+de un contexto nacional de “anomia ambiental” y que se configura como
+un estado-situación que propicia la inobservancia normativa, la desinstitucionalización,
+la inseguridad jurídica, el control deficiente de gestión, la
+permanencia de una autoridad permisiva y la corrupción.1
+Pero por otro lado, la importancia del petróleo en el Ecuador se refleja
+de la siguiente manera: aproximadamente el 30 por ciento de la extracción
+se destina al consumo interno, las exportaciones de crudo y derivaPetróleo
+y poder: el colapso de un lugar singular, Yasuní
+24
+1 El dispositivo de la corrupción en materia ambiental se activa a partir de que alguien hace lo que
+no debe hacer, para sacar provecho, antes de que otro se anticipe (ver el acápite Justificación).
+dos representa el 43 por ciento del valor de las exportaciones totales, la
+renta y los ingresos de exportación de derivados constituyen el 33 por
+ciento del presupuesto general del Estado, y es la principal fuente de
+ingresos para el pago de la deuda externa que se aproxima al 39 por ciento
+del PIB (17.319 millones de dólares a julio del 2007 (BCE, 2007 en
+Fontaine, 2007e: 1).2 En el 2006 la dependencia del petróleo ha crecido
+y este producto ha alcanzado el 60 por ciento de las exportaciones (Larrea,
+2007: 28). Para la conformación del PGE del 2008, el Congreso Nacional
+calculó los ingresos económicos provenientes de la venta del petróleo a un
+precio de $45 cada barril, mientras a mediados de junio del 2008 en el
+mercado internacional, el crudo marcador se lo cotizó en $150.
+En tales circunstancias se oficializó la propuesta de carácter ecologistaantisistémica–
+de no extraer 920 millones de barriles de petróleo del eje
+ITT, cuyos justificativos van desde garantizar derechos a las generaciones
+futuras, evitar la pérdida de la diversidad biológica, garantizar los derechos
+de los pueblos indígenas que viven en el área, evitar la contaminación por
+la combustión de dicho producto y a cambio de los servicios ambientales
+que presta el Yasuní, la comunidad internacional, mediante diversos mecanismos
+entregue al Ecuador el 50 por ciento de los recursos económicos
+que aportaría anualmente la explotación petrolera en esos yacimientos.
+Propuesta generadora de simpatías y adhesiones, de réditos políticos
+inmediatos y a largo plazo. Además de ser pionera en el Ecuador, tiene
+una trascendencia simbólica, porque representa la alternativa entre el
+modelo actual de desarrollo basado en la extracción no sustentable de
+recursos naturales, y un modelo futuro encaminado al respeto a la naturaleza,
+la diversidad cultural y la satisfacción de las necesidades humanas
+(Larrea, 2007: 28). De ahí que ha despertado gran expectativa en momentos
+en que se arrecia el efecto invernadero y el cambio climático provoca
+graves catástrofes a nivel planetario. Desde esta perspectiva, con mayor
+razón se justifica el control de la liberación de millones de toneladas
+de dióxido de carbono por la quema de combustibles fósiles.
+25
+Introducción
+2 La deuda externa pública asciende a 10.383 millones de dólares (23,45 del PIB), la deuda privada
+es de 6.936 millones de dólares. El PIB, al 31 de julio del 2007 estaba estimado en 44.400
+millones de dólares (BCE, 2007 en Fontaine, 2007e: 1).
+No obstante, estar de por medio la propuesta de mantener represados
+in situ los 920 millones de barriles de petróleo del ITT, el Gobierno
+nacional el 21 de octubre de 2007 ratifica su interés en la extracción
+hidrocarburífera y restituye la licencia ambiental a la empresa Petrobras,
+para que continúe con sus operaciones en el B-31, ubicado precisamente
+en el Yasuní, una parte en el PNY, y otra en la zona intangible tagaeritaromenani.
+Lo que a criterio de los ecologistas, esta decisión significaría
+un paso adelante para la explotación del eje ITT, echando por la borda su
+posición contra utópica. En todo caso, la ciudadanía aboga porque esta
+situación sea enfrentada y resuelta.3
+Retomando el enfoque contextual de esta introducción temática, cabe
+enfatizar que en el libro está explícita una dimensión analítica que no
+corresponde a ningún signo utópico o fatalista y trasunta el binomio conservación-extracción,
+y parte de preguntas y respuestas, por ejemplo:
+¿Cómo abordar a lo mensurable y cuantificable de la crisis de la RAE y
+del Yasuní en particular? ¿Cómo transparentar el andamiaje ideológico
+extractivista / conservacionista? ¿Cómo formular respuestas viables en el
+marco de una suficiencia discursiva científica, técnica, económica, ética y
+socioambiental, no sometida al sólo interés ideológico-político neoliberal?
+En las conclusiones se arriesgan respuestas como la siguiente: buceando la
+bibliografía especializada interdisciplinaria, transectorial e interactorial
+más relevante; extrayendo de la experiencia nacional e internacional concreta
+las lecciones más profundas y siguiendo la visión de un liderazgo
+estratégico capaz de asignarle sentido al proceso energético a partir de la
+racionalidad ambiental subyacente en el contexto del Estado plurinacional,
+sin perder de vista la condición de pobreza, de crisis estructural de la
+sociedad en general, ni la necesaria sustitución de la energía proveniente
+de los combustibles fósiles, considerando la posibilidad de impulsar una
+matriz “energético-social”.
+Desde esta perspectiva la responsabilidad sobre la Amazonía y el
+Yasuní no alude ni excluye a nadie en particular, corresponde ubicarla en
+el contexto de la problemática geopolítica-energética global y dentro de
+Petróleo y poder: el colapso de un lugar singular, Yasuní
+26
+3 El tema sobre el ITT será tratado con mayor detalle en un acápite específico “ITT: extracción o
+represamiento del petróleo in situ”.
+los procesos de cambios y transformaciones sociales y del Estado, a partir
+de lógicas de acción sustentadas en la racionalidad ambiental y en el
+marco de la planificación del desarrollo nacional y local, para el efecto, la
+Asamblea Nacional Constituyente, el 19 de julio del 2008 concluyó la
+nueva Carta Fundamental, con innovaciones en sus partes dogmática y
+orgánica, idóneas para operacionalizar a mediano y largo plazo los procesos
+económicos, sociales, políticos, éticos y el desarrollo sostenible.
+Como era de esperarse, la Asamblea Constituyente incorporó la propuesta
+política de los pueblos indígenas amazónicos. Pueblos que por el
+sólo hecho de ser tales, connotan su resistencia a la exclusión como una
+forma de ejercer su libertad. Esos pueblos indígenas son un poder capaz
+de coadyuvar a la transformación del Ecuador, y convertirlo, de país
+inconcluso, trunco y con una identidad llena de vaciedad, en un país con
+identidad real, plena, iluminada por la inmanencia de la alteridad, que
+como la –tagaeri, taromenani, huaorani– en cuanto fuerza política
+motriz, no se resigna a ser aherrojada, ni excluida como pueblo, como
+cultura en transición dialéctica hacia la identidad infinita.4
+No se trata entonces de negar la crisis estructural de la RAE y del
+Yasuní o la del país, ni de adornar las cadenas que la explotación petrolera
+comporta, enmascarándolas con florituras de una pseudo democracia
+de la que se sirvieron los grupos económicos, sino de aprender a ver los
+acontecimientos tal cual son, sin velo decorativo; en el caso del Yasuní,
+mirar los hechos objetivos ricos de material viviente pero también de
+muertes trágicas, de gestión extractiva defectuosa, debilitado marco jurí-
+dico-institucional; fraccionamiento ambiental inconcluso y políticas pú-
+blicas deficitarias; para entonces, desde esa realidad torrencial y a la vez
+tormentosa vislumbrar un nuevo orden socioambiental, económico y
+político.
+Bajo este enfoque el texto evidencia como los impactos negativos de
+los procesos de extracción y mercantilización de los recursos naturales han
+rebasado los límites de la región y del Yasuní, que agredido éste último
+27
+Introducción
+4 La nueva Constitución de la República del Ecuador pudo prescribir: Art. 1.- (Forma de Estado
+y Gobierno).- El Ecuador es un Estado social de derecho ecológico: plurinacional, soberano,
+unitario, independiente y democrático. Su gobierno es …
+por las consecuencias perversas del modelo extractivista reacciona, transformándose
+en un actor político. Desde esta lógica, el Yasuní es por excelencia
+un actor político pues, la conservación y/o la extracción de hidrocarburos
+generan una disputa política entre diversos sectores y el gobierno,
+y de hecho provoca cambios estratégicos en la economía.
+La constatación de las relaciones asimétricas de poder y sus implicancias
+sobrevinientes trasuntan el corpus nuclear del libro, además se evidencia
+como el conocimiento instrumental no ha coadyuvado a la preservación
+de la sabiduría indígena, relegándola a un nivel de no validación y
+propiciando el aniquilamiento de los saberes ancestrales y sus referencias
+simbólicas. Finalmente se sugieren ideas que susciten desafíos, rupturas y
+discontinuidades teórico-metodológicas que apunten a la construcción de
+una sostenibilidad ecosistémica, de una racionalidad ambiental que reivindique
+la plurinacionalidad, la sociedad intercultural y la participación
+ciudadana como base de la política deliberativa para la adopción de decisiones
+trascendentes, en cuanto signo vital del Ecuador, como un Estado
+constitucional de derechos: democrático, ecológico, plurinacional, soberano,
+unitario, independiente y equitativo.
+Aproximaciones teóricas y metodológicas
+Los procesos extractivos de recursos naturales no renovables en el bosque
+húmedo tropical llevan implícitos múltiples factores, entre otros: políticas
+ambientales públicas, control de la gestión ambiental operativa empresarial,
+derechos de titularidad común indiferenciada, derechos indígenas para
+la autodeterminación y territorialidad, fraccionamiento competencial
+ambiental, áreas protegidas e intangibilidad, conservación de la biodiversidad,
+conflictos socio ambientales, redistribución de la renta petrolera, y
+política nacional de los pueblos en situación de aislamiento voluntario; factores
+que por su complejidad y dinámica interrelación coadyuvan a un alto
+riesgo de crisis de gobernanza ambiental y que al ser tratados desde una
+perspectiva de cultura, política, sociedad, y jurídico-institucional, requieren
+además que se observen los aspectos simbólicos y/o de sentido de tales
+procesos. En el presente análisis se asume dicho enfoque y de acuerdo con
+Petróleo y poder: el colapso de un lugar singular, Yasuní
+28
+(Mato, 2005: 12), para el tratamiento de temas como: “Pueblos ocultos,
+políticas públicas en un entorno de crisis de gobernanza ambiental, áreas
+protegidas y transferencia de competencias ambientales”, se considera que
+es beneficioso no aludir a una suerte de teoría única, sino desde la diversidad
+para que adquiera mayor relevancia aquella perspectiva.
+Crisis de gobernanza ambiental
+Se enfatiza en las causas de la crisis de gobernanza5 ambiental6 y su interrelación
+con la crisis del Estado y de otros actores que generando e instrumentando
+estrategias de poder, juegan con aquella y la simulación del
+discurso de la conservación, descentralización, gobernabilidad y sustentabilidad
+en base a una agenda aparentemente perfecta para transitar sin
+29
+Introducción
+5 La implicancia política del término gobernanza ha llevado a un amplio debate público nacional
+e internacional que ha permitido asumirla desde diferentes perspectivas, por ejemplo:
+“…la gobernanza abarca la interacción entre las estructuras, los procesos, las tradiciones
+y los sistemas de conocimientos que determinan la forma en que se ejerce el poder y la
+responsabilidad y se adoptan las decisiones, y en que expresan su opinión los ciudadanos
+y otros interesados directos. La gobernanza ambiental se la entiende, más que como
+un “estado” adquirido por una construcción institucional y normativa a partir de un
+cierto consenso de los actores con poder (estratégicos), como un proceso constantemente
+en construcción, en la medida en que los actores y sus relaciones pueden cambiar. Esta
+visión está inserta en una preocupación central: construir la gobernabilidad desde aristas
+complementarias como la problemática del desarrollo, la dimensión ambiental, el
+marco institucional necesario para normar y viabilizar las relaciones de cooperación
+entre actores públicos y privados.” ( UICN, 2003: 2 y ss).
+6 La crisis de gobernanza ambiental está implícita en lo que se denomina la crisis ambiental y que
+marca la ruptura civilizatoria, que es una crisis civilizatoria, es decir, el límite de una creencia
+tomada por la humanidad y que lleva a re-significar el sentido del desarrollo, el sentido de la vida
+y de la existencia. Entonces, ¿Qué es lo visible de esa gobernanza – gobernabilidad?; desde la
+perspectiva de Leff (2005: 5) son:
+“Las cosas sustantivas como el fortalecimiento de la sociedad civil, las sinergias intersectoriales
+entre programas ambientales y de democracia y gobernanza, de fortalecimiento
+de la institucionalidad del sector público, de abrirse a la diversidad cultural reconociendo
+el derecho de las comunidades indígenas y campesinas a tener palabra, un discurso y
+una visión del mundo, a participar en la construcción de la sustentabilidad que implica
+disponer y tener acceso a una justicia confiable, respeto a los derechos humanos, reconocimiento
+de los derechos territoriales, de la responsabilidad y los roles de los distintos
+actores involucrados, tener una sociedad activa y un servicio público responsable que
+rinda cuentas de su gestión.” 
+obstáculos hacia el desarrollo sostenible. Concomitantemente se procede
+a referir análisis teóricos relacionados a los temas anteriormente descritos,
+por ejemplo: cuando se trata de las estrategias de poder de los actores hegemónicos
+(Estado, empresas petroleras transnacionales) se las problematiza
+e interpela teóricamente, toda vez que esas estrategias (Leff, 2005: 5)
+están llenas de trabas y de mañas que pervierten en muchos sentidos los
+principios fundamentales que tanto reclaman de corazón. De lo que se
+trata es de analizar como quienes instrumentan estrategias de poder,
+hacen que estas prevalezcan en función de objetivos crematísticos concretos
+que les representan los procesos extractivos y mayormente controversiales,
+cuando se implementan en escenarios ecológicamente sensibles y
+culturalmente vulnerables como en la Región amazónica ecuatoriana, el
+Yasuní, con sus diversas categorías espaciales: bloques petroleros; territorios
+indígenas quichua, huaorani; zona intangible tagaeri-taromeneni;
+parque nacional; reserva de biosfera.
+Espacio multifacético a punto de convertirse en no-lugar, y en el cual
+se constata la aplicación de políticas explícitamente encaminadas a negar
+los derechos específicos de colectividades consideradas inferiores e incapaces
+de manejar sus propios asuntos, por el solo hecho de ser culturalmente
+diferentes de los grupos dominantes, en consecuencia, detrás de las
+pseudo políticas de participación y relacionamiento comunitario subyacen
+los intereses del despojo de recursos, de la explotación de la fuerza de
+trabajo, del control ideológico y de la dominación política, tal cual ya lo
+evidenciara Díaz Polanco (1991) en relación a pueblos indígenas del continente.
+Los conflictos socioambientales
+La resolución de este tipo de conflictos demanda la aplicación de diversos
+mecanismos de origen legal y de origen voluntario. Son las visiones respecto
+a la relación entre la sociedad y el medio ambiente, tanto como las
+consecuencias que generan las actividades antrópicas, lo que se ubica como
+uno de los principales generadores de conflictos socio ambientales. En
+este sentido, la participación ciudadana, la resistencia de las organizacioPetróleo
+y poder: el colapso de un lugar singular, Yasuní
+30
+nes sociales y la conducta de los actores hegemónicos, dan lugar a los
+diversos enfoques, intereses y estrategias que constituyen un instrumento
+poderoso para la prevención y resolución de conflictos ambientales. Conflictos
+originados precisamente por las acciones emprendidas en un determinado
+momento, en un determinado espacio o territorio asignado a
+grupos sociales relevantes. Tanto los mecanismos legalmente instituidos
+cuanto las instancias no formales se utilizan como estrategias para prever
+o detener la espiral de conflictos; aunque no siempre son eficaces debido
+fundamentalmente a que no existe la suficiente cultura para la participación,
+o porque funcionarios públicos se resisten a perder su discrecionalidad;
+y también porque grupos sociales y/o representantes privados que
+han tenido acceso privilegiado a los procesos de decisión pública sin tener
+que rendir cuenta de los efectos sobre el ambiente, se resisten a perder
+tales privilegios.
+En el enfoque analítico de Fontaine (2007b: 2) una apuesta mayor de
+muchos conflictos consiste en la validación o no de decisiones de políticas
+públicas, donde es notoria la complementariedad entre las modalidades
+sistémicas y sociales de sus arreglos. En cuanto se refiere al estudio de
+conflictos hidrocarburíferos en la Amazonía subandina, la hipótesis que
+se plantea es pertinente en relación a los conflictos que genera el extractivismo
+petrolero en el Yasuní: “la buena gobernanza se articula con la
+gobernabilidad democrática en función de la capacidad de la sociedad de
+llegar a la estabilidad, la integración social y política y manejar los conflictos
+sobre la base de la capacidad de negociación e institucionalización
+de los arreglos y la responsabilidad de las instituciones”. A partir de está
+hipótesis, el enfoque de “la institucionalidad de los arreglos” subyace en
+el análisis contextual y tiene énfasis en el acápite relacionado al marco
+jurídico-institucional (sistema institucional) del Estado, y la sociedad
+civil; que tal cual lo asume Fontaine (2007b: 3): “en esta interrelación,
+cada actor estratégico actúa conforme a una racionalidad propia, que condiciona
+su visión del mundo (en términos de situación, alteridad, etc.),
+sus valores morales (el bien, lo justo, etc.), y sus demandas (basadas en
+necesidades e intereses).” Así se fundamenta como dicha racionalidad
+propicia una lógica de acción racional que ordena y regula las conductas
+entre actores, de estos con la sociedad y el Estado, y entre Estados.
+31
+Introducción
+Al respecto (Varea y Ortiz, 1995: 17) coinciden al expresar que el conflicto
+socioambiental se ha definido como la acción colectiva o la situación
+que implica la oposición de intereses, derechos, perspectivas, racionalidades
+y lógicas en relación al manejo de los recursos naturales, en este
+caso amazónicos, en un contexto de crisis.
+El manejo de conflicto es, sobre todo, una estrategia para la concertación,
+se lo define como un campo multidisciplinario de investigación y
+acción, que busca encaminar como la gente puede tomar mejores decisiones
+en conjunto, particularmente sobre problemas difíciles y contenciosos
+(…) el exitoso manejo de los conflictos puede significar el reforzamiento
+del poder de las instituciones locales o la creación de nuevos espacios
+participativos basados en lo tradicional, que permite a las comunidades
+emprender nuevos retos. El manejo del conflicto consiste en un puñado
+de premisas sobre conflicto, cambio y poder.
+Siempre habrá de tomarse en cuenta que los conflictos socioambientales
+implican un trasfondo complejo y de múltiples niveles y que deben
+ser abordados desde una perspectiva múltiple: social, política, cultural,
+ambiental, económica, ética, etc., y considerando los actores involucrados:
+personas naturales, empresas, comunidades, Estado. Los conflictos
+son parte de la vida social amazónica (Varea y Ortiz, 1995: 20).7
+Áreas protegidas y gestión en el Yasuní
+Las áreas protegidas y su caracterización físico-espacial son otro componente
+del estudio, particularmente el Yasuní –lugar singular– que va
+camino a devenir en no-lugar, considerando que la naturaleza en cuanto
+descubrimiento del segundo milenio, al igual que el salvaje amerindio, a
+Petróleo y poder: el colapso de un lugar singular, Yasuní
+32
+7 Ortiz (2007:10) reitera que los conflictos extractivos (…) asociados no son sino parte de una disputa
+de otro nivel, en torno a las líneas centrales con las cuales se pretende diseñar y definir la
+estructura y el contenido del modelo de economía, territorio, Estado del Ecuador post-petrolero.
+Modelo que no difiere en lo fundamental, de aquellos elementos que se establecieron en el
+último cuarto del siglo XIX y que constituyen la base con la cual se estableció un país de base
+extractiva, articulado a transacciones transcontinentales. Si de algún proceso de globalización el
+Ecuador y buena parte de los países andinos forman parte, es de aquella que comenzó con la
+conquista y colonización de las Américas..
+esa época: “Si el salvaje es, por excelencia, el lugar de la inferioridad, la
+naturaleza lo es de la exterioridad. Pero, como lo que es exterior no pertenece
+y lo que no pertenece no es reconocido como igual, el lugar de la
+exterioridad es también el de la inferioridad, y lo mismo que el salvaje, la
+naturaleza es simultáneamente una amenaza y un recurso” (de Sousa
+2006: 125), y se puede agregar desde esa perspectiva, que si la naturaleza
+es una amenaza irracional, esa irracionalidad deriva de la falta de conocimiento
+sobre la naturaleza, conocimiento que permita dominarla y usarla
+plenamente como recurso-mercancía.
+“La violencia civilizatoria que, en el caso de los salvajes, se ejerce a través
+de la destrucción de los conocimientos nativos tradicionales y de la inculcación
+del conocimiento y la fe “verdaderos”, en el caso de la naturaleza
+se ejerce a través de la producción de un conocimiento que permita transformarla
+en recurso natural. En ambos casos, no obstante, las estrategias
+de conocimiento son básicamente estrategias de poder y dominación. El
+salvaje y la naturaleza son, las dos caras del mismo designio: domesticar
+la “naturaleza salvaje”, convirtiéndola en un recurso natural. Es esa voluntad
+única de domesticar la que vuelve tan ambigua y frágil la distinción
+entre recursos naturales y humanos tanto en el siglo XVI como hoy.” (de
+Sousa, 2006: 125).
+De Sousa insiste que con el advenimiento de la modernidad, el Dios que
+justifica la sumisión de los indios tiene, en el caso de la naturaleza, su
+equivalente funcional en las leyes que hacen coincidir previsiones con
+acontecimientos y transforma esa coincidencia en la prueba de sumisión
+de la naturaleza. Desde esta perspectiva entonces: “siendo una interlocutora
+tan estúpida e imprevisible como el salvaje, la naturaleza no puede
+ser comprendida sino apenas explicada, y explicarla es la tarea de la ciencia
+moderna. Para ser convincente y eficaz, este descubrimiento de la
+naturaleza no puede cuestionar la naturaleza del descubrimiento. Y, con
+el tiempo, lo que no puede ser cuestionado deja de ser una cuestión, se
+vuelve evidente” (de Sousa, 2006: 125). Este paradigma de construcción
+de la naturaleza, en la actualidad sigue siendo el dominante. La domesticación
+de la naturaleza está íntimamente ligada a la “domesticación indí-
+gena”.
+33
+Introducción
+Respecto a la domesticación de la naturaleza Boaventura de Sousa se-
+ñala dos consecuencias (que interesa enfatizarlas en función de transparentar
+lo que acontece en el Yasuní): la crisis ecológica y la cuestión de la
+biodiversidad. Transformada en recurso, la naturaleza no tiene otra lógica
+que ser explotada hasta la extenuación. Separada del hombre y de la sociedad,
+no es posible pensar en interacciones mutuas, y por otro lado, la
+cuestión de la biodiversidad viene a replantear un nuevo plano de la
+superposición matricial entre el descubrimiento del salvaje y el de la naturaleza.
+Por lo tanto, no es por casualidad que hasta ahora:
+“… buena parte de la biodiversidad del planeta se encuentre en los territorios
+de los pueblos indios. Para ellos, la naturaleza nunca fue un recurso
+natural, fue siempre parte de su propia naturaleza como pueblos indios
+y, en consecuencia, la preservaron preservándose siempre que pudieron
+escapar de la destrucción occidental. Hoy, a semejanza de lo que ocurrió
+en los albores del sistema capitalista mundial, las empresas transnacionales
+de la farmacéutica, la biotecnología y la ingeniería genética procuran
+transformar a los indios en recursos pero no de trabajo sino en recursos
+genéticos, en instrumentos de acceso no al oro y a la plata sino, a través
+del conocimiento tradicional, a la flora y a la fauna bajo la forma de biodiversidad”
+(de Sousa, 2006: 126).
+Ciertamente, el elemento que tiene connotaciones análogas a las descritas
+por Boaventura de Sousa respecto a los recursos genéticos, en el Yasuní es
+el petróleo, pero no como una expresión de la relación directa hombre
+–naturaleza, sino como un recurso que lo atraviesa cosificándolo para
+anularlo, y al hacerlo lo expulsa de su territorio, entonces éste se desterritorializa
+y al ser vaciado de las significaciones asignadas por los pueblos
+indígenas, se convierte en mercancía, o en objeto de explotación intensiva
+y extensiva, en no-lugar.
+Conforme lo explica Escobar (2000: 114 y ss), en lo que tiene que ver
+con el entorno, las nuevas metáforas en términos de movilidad –la desterritorialización,
+el desplazamiento, la diáspora, la migración, los viajes, el
+cruce de fronteras, la nomadología, etc. – nos han hecho más conscientes
+del hecho de que la dinámica principal de la cultura y la economía han
+sido alteradas significativamente por procesos globales inéditos (…) lo
+Petróleo y poder: el colapso de un lugar singular, Yasuní
+34
+global es igualado al espacio, al capital, a la historia y a su agencia, y lo
+local, con el lugar, el trabajo y las tradiciones. El lugar en otras palabras,
+ha desaparecido en “e
